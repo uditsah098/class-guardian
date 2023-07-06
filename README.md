@@ -1,7 +1,4 @@
-<html>
-<head>
-  <title>Class Guardian</title>
-</head>
+
 <body>
   <h1>Class Guardian</h1>
 
